@@ -1,4 +1,4 @@
-# Introduction
+![Slide18](https://github.com/user-attachments/assets/31ab4fe5-4e3c-41cd-b4aa-9f327868195b)# Introduction
 In this project, our team aimed to conduct an exploratory data analysis and hypothesis testing on a government awards dataset. The collection includes data on a variety of awards, such as program kinds, corporate information, and award amounts. Finding relevant insights by examining possible patterns and links in the data was the main goal.
 ## Key Findings
 ### Business Questions: -
@@ -43,6 +43,120 @@ Citations
 1.https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/t.test
 
 2.https://www.datacamp.com/tutorial/t-tests-r-tutorial
+
+## Slide Previews
+
+### Slide 1
+![Slide1](https://github.com/user-attachments/assets/ec538c99-e962-499b-a39e-da45beab8822)
+
+
+---
+
+### Slide 2
+![Slide2](https://github.com/user-attachments/assets/1268e4b1-a4e2-4c36-add2-514d65453bef)
+
+---
+
+### Slide 3
+![Slide3](https://github.com/user-attachments/assets/5e38314b-66cd-44bd-98f8-41e92231190d)
+
+---
+
+### Slide 4
+![Slide4](https://github.com/user-attachments/assets/ba107e3e-37b1-4729-a75c-4e98887d7865)
+
+---
+
+### Slide 5
+![Slide5](https://github.com/user-attachments/assets/4b7ee37a-e786-4fc9-9aba-1c697ea41745)
+
+---
+
+### Slide 6
+![Slide6](https://github.com/user-attachments/assets/73a0dd50-2414-4b68-87fd-bdf138857d4c)
+
+---
+
+### Slide 7
+![Slide7](https://github.com/user-attachments/assets/fa3287e6-b9f3-4615-8cd1-ed3e9a4d8a53)
+
+---
+
+### Slide 8
+![Slide8](https://github.com/user-attachments/assets/7109d227-c937-458e-ae42-e0588b5f3e30)
+
+---
+
+### Slide 9
+![Slide9](https://github.com/user-attachments/assets/38172259-86fa-4a5f-b951-9d25d87f983d)
+
+---
+
+### Slide 10
+![Slide10](https://github.com/user-attachments/assets/c88d5e8b-e673-4668-8938-eb8c5b08813c)
+
+---
+
+### Slide 11
+![Slide11](https://github.com/user-attachments/assets/a1ba5d4b-2844-471f-9593-e114aa2a07bc)
+
+---
+
+### Slide 12
+![Slide12](https://github.com/user-attachments/assets/a446d3fb-8d77-415b-a540-168ae5932ca0)
+
+---
+
+### Slide 13
+![Slide13](https://github.com/user-attachments/assets/0d80abe3-90f7-4f8b-99bd-76c18a71f081)
+
+---
+
+### Slide 14
+![Slide14](https://github.com/user-attachments/assets/bfa6128b-3fb0-4bfd-96f5-480c5cf341ba)
+
+---
+
+### Slide 15
+![Slide15](https://github.com/user-attachments/assets/a5b9c9fe-8f13-4d13-8152-78e4c37ffd23)
+
+---
+
+### Slide 16
+![Slide16](https://github.com/user-attachments/assets/cf7455f4-f69a-4699-96da-350564527b92)
+
+---
+
+### Slide 17
+![Slide17](https://github.com/user-attachments/assets/9e66475e-254c-4050-a3ea-098b907585d8)
+
+---
+
+### Slide 18
+![Slide18](https://github.com/user-attachments/assets/ab8e97ce-eeb1-4231-a94c-fa6fe1e6b9c5)
+
+---
+
+### Slide 19
+![Slide19](https://github.com/user-attachments/assets/f1cffdc1-db63-40d4-8904-8ad38b2854a3)
+
+---
+
+### Slide 20
+![Slide20](https://github.com/user-attachments/assets/68ed78d7-4f54-4d06-8de6-902301d984b9)
+
+---
+
+### Slide 21
+![Slide21](https://github.com/user-attachments/assets/b46545fe-290f-489d-8808-e59fc13acf05)
+
+---
+
+## How to Use
+1. Navigate through the slides to understand the project.
+2. For detailed explanations, refer to the accompanying documentation.
+
+---
 ## License
 
 This project is licensed under the [MIT License](LICENSE).  
