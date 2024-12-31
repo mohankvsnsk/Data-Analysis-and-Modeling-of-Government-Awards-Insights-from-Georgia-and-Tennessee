@@ -32,6 +32,7 @@ Hypothesis: The mean number of employees varies significantly among different st
 The graphic shows how the average number of employees in each state compares to one another. It assists in determining which states have higher or lower average employment rates among the award-winning enterprises.
 
 ![image](https://github.com/user-attachments/assets/e2da779e-cc5e-48bb-87d1-6b6aa50e35e9)
+
 2.BoxPlot-The box plot provides information about the distribution of the number of employees per state, including the central tendency, spread, and any outliers. It makes it possible to compare the features of workforce size visually between states.
 
 ![image](https://github.com/user-attachments/assets/30721a67-51a9-41a3-a414-9e4ada510f0f)
@@ -40,6 +41,7 @@ The graphic shows how the average number of employees in each state compares to 
 Our investigation offers insightful information about the variables affecting the size of government awards. The findings demonstrate how program kinds, regional location, and social and economic deprivation affect parameters connected to awards. Policymakers and other interested parties can use this information to help them make well-informed decisions about government grants.
 Citations
 1.https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/t.test
+
 2.https://www.datacamp.com/tutorial/t-tests-r-tutorial
 ## License
 
