@@ -16,7 +16,9 @@ Hypothesis: There is a significant difference in the number of awards received b
 Output: > t_test_result1
 > Welch Two Sample t-test
 > data: disadvantaged and non_disadvantaged t = 0.55906, df = 284.33, p-value = 0.5766 alternative hypothesis: true difference in means is not equal to 0 95 percent confidence interval: -41765.62 74902.32 sample estimates: mean of x & mean of y 360331.1 & 343762.8.
+
 Hypothesis: There is a significant difference in the mean award amounts between socially and economically disadvantaged companies (Y) and non-disadvantaged companies (N).
+
 3.How Does the Number of Employees Vary Across Different States?
 #### Code: -
 > t_test_result3 <- t.test(number_employees ~ state, data = award_clean)
