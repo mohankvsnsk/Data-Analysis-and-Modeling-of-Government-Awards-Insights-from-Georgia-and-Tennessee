@@ -2,8 +2,7 @@
 In this project, our team aimed to conduct an exploratory data analysis and hypothesis testing on a government awards dataset. The collection includes data on a variety of awards, such as program kinds, corporate information, and award amounts. Finding relevant insights by examining possible patterns and links in the data was the main goal.
 ## Key Findings
 ### Business Questions: -
-1.
-Which Companies Have Received the Most Awards?
+1.Which Companies Have Received the Most Awards?
 #### Code: -
 > award_count <- award_df |> group_by(company, state) |> + summarise(count = n()) |> arrange(desc(count)) |> + filter( count > 35)
 Output:
