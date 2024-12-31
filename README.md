@@ -1,4 +1,4 @@
-![Slide18](https://github.com/user-attachments/assets/31ab4fe5-4e3c-41cd-b4aa-9f327868195b)# Introduction
+# Introduction
 In this project, our team aimed to conduct an exploratory data analysis and hypothesis testing on a government awards dataset. The collection includes data on a variety of awards, such as program kinds, corporate information, and award amounts. Finding relevant insights by examining possible patterns and links in the data was the main goal.
 ## Key Findings
 ### Business Questions: -
